@@ -3,9 +3,9 @@
   "tasks": [
     {
     "task_name": "Test-Login",
-    "script_name": "NEWMODEL.jmx",
+    "script_name": "NTBUSERS.jmx",
     "data_files": {
-               "opportunity_file" : "NTBB.csv"
+               "opportunity_file" : "NTBUSERS.csv"
         
       }
    }
