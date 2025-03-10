@@ -5,7 +5,7 @@
     "task_name": "Test-Login",
     "script_name": "ETBMODEL.jmx",
     "data_files": {
-               "opportunity_file" : "ETB.csv"
+               "opportunity_file" : "ETBMODEL.csv"
         
       }
    }
