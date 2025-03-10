@@ -5,7 +5,7 @@
     "task_name": "Test-Login",
     "script_name": "NTBUsers100.jmx",
     "data_files": {
-               "opportunity_file" : "NTB100.csv"
+               "opportunity_file" : "NTBBB.csv"
         
       }
    }
