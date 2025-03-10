@@ -3,7 +3,7 @@
   "tasks": [
     {
     "task_name": "Test-Login",
-    "script_name": "ETBMMODEL.jmx",
+    "script_name": "ETBTWOFIFTY.jmx",
     "data_files": {
                "opportunity_file" : "ETBMODEL.csv"
         
