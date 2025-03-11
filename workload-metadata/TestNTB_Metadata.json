@@ -23,7 +23,7 @@
     "data_files": {
                "opportunity_file" : "NTBTHREE.csv"
         
-      }|
+      }
 },
 {
 "task_name": "Test-NLogin4",
