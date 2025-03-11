@@ -5,7 +5,7 @@
     "task_name": "Test-CLogin2",
     "script_name": "CustomerCreation.jmx",
     "data_files": {
-               "opportunity_file" : "CCTwo.csv"
+               "opportunity_file" : "CCCTwo.csv"
         
       }
    }
